@@ -1,0 +1,28 @@
+{
+  "name": "haryap",
+  "version": "1.0.0",
+  "description": "A simple data validation library for JavaScript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerbayyyy3/haryAp.git"
+  },
+  "keywords": [
+    "validation",
+    "data",
+    "javascript"
+  ],
+  "author": "gerbayyyy3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerbayyyy3/haryAp/issues"
+  },
+  "homepage": "https://github.com/gerbayyyy3/haryAp",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "validator": "^13.6.0"
+  }
+}
